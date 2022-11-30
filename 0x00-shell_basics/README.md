@@ -1,1 +1,1 @@
-Moves the file betty in temporary folder to my_first_directory in temporary folder
+Delete the directory my_first_directory that is in the /tmp directory
