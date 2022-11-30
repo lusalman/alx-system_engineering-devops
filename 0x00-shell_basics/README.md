@@ -1,1 +1,1 @@
-script that changes the working directory to the previous one.
+prints type of file
