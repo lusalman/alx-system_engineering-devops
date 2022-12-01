@@ -1,1 +1,1 @@
-Permissions Readme
+script that prints all groups user belongs to
